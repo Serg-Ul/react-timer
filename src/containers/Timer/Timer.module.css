@@ -1,0 +1,15 @@
+.Timer {
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    color: #eeeeee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Timer > div {
+    width: 5px;
+    height: 45px;
+}

@@ -1,0 +1,22 @@
+.Input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.Input label{
+    color: #fff;
+}
+
+.Input input{
+    width: 50px;
+    height: 15px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.Input input:focus, input:active{
+    outline: none;
+}

@@ -1,15 +1,21 @@
 .Timer {
+
+}
+
+.Timer-body {
     width: 200px;
     height: 200px;
     border: 1px solid grey;
     border-radius: 50%;
-    color: #eeeeee;
+    color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    /*background-color: #eeeeee;*/
 }
 
-.Timer > div {
-    width: 5px;
-    height: 45px;
+.Timer-body > div {
+
 }
